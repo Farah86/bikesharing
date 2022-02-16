@@ -12,6 +12,10 @@ after we finish the research now its time to show the investor our analyiz as a 
 # Results:
 ---------------------------------------------------------------
 
+this is a link to story that show the NYC bike share analysing 
+
+ https://public.tableau.com/app/profile/faz2964/viz/Bikeshare_tripanalysis/Story1?publish=yes
+
 underneath is some images of how the analyiz went for us:
 
 1. we provided the total number for the rides in the city
